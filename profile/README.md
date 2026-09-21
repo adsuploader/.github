@@ -32,6 +32,8 @@ A batch of 50 ad variations that takes 2–3 hours by hand launches in **5–10 
 
 ### Get started
 
-**[Start a 7-day free trial](https://adsuploader.com)** — no credit card required. Or wire up an agent: hosted MCP at `https://adsuploader.com/api/mcp`, CLI via `npm install -g @adsuploader/cli`.
+- **Web app:** [adsuploader.com](https://adsuploader.com)
+- **Hosted MCP:** `https://adsuploader.com/api/mcp`
+- **CLI:** `npm install -g @adsuploader/cli`
 
 Questions? **support@adsuploader.com**
