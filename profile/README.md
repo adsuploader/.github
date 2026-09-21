@@ -4,7 +4,7 @@
 
 <h1 align="center">Ads Uploader</h1>
 
-<p align="center">Launch and manage Meta (Facebook &amp; Instagram) ads at scale — from the web app, the command line, or an AI agent.</p>
+<p align="center"><strong>Launch More. Click Less.</strong><br>The fastest way to launch Meta ads without losing your mind.</p>
 
 <p align="center">
   <a href="https://adsuploader.com">Website</a> ·
@@ -15,9 +15,13 @@
 
 ---
 
-Founded on a decade of hands-on Meta advertising, Ads Uploader gives you the deepest, most complete Meta ad-creation workflows available — template from any live ad, launch in bulk with unique copy per ad, run partnership (branded content) ads, and duplicate ads while preserving social proof.
+A batch of 50 ad variations that takes 2–3 hours by hand launches in **5–10 minutes**. Media buyers and agencies use Ads Uploader to save **10+ hours a week** bulk-launching Meta (Facebook &amp; Instagram) ads — recovering thousands in billable time.
 
-Everything is **safe by default**: previews validate against Meta without creating anything, and new ads are **paused** until you launch them.
+- **Bulk upload unlimited ads** across unlimited ad accounts.
+- **Auto-match** creative variations and thumbnails instantly.
+- **Scale winners** by duplicating ads via post ID — social proof intact.
+- **Launch your way** — through the Meta API or legacy XLSX uploads.
+- **Build with AI agents** — drive the whole pipeline from Claude, ChatGPT, Cursor, or Codex via the MCP server and CLI.
 
 ### Open source
 
@@ -28,8 +32,6 @@ Everything is **safe by default**: previews validate against Meta without creati
 
 ### Get started
 
-- **Web app:** [adsuploader.com](https://adsuploader.com)
-- **Hosted MCP:** `https://adsuploader.com/api/mcp`
-- **CLI:** `npm install -g @adsuploader/cli`
+**[Start a 7-day free trial](https://adsuploader.com)** — no credit card required. Or wire up an agent: hosted MCP at `https://adsuploader.com/api/mcp`, CLI via `npm install -g @adsuploader/cli`.
 
 Questions? **support@adsuploader.com**
