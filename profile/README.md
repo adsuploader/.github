@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adsuploader/.github/main/assets/logo.png" alt="Ads Uploader" width="96" height="96">
+  <img src="https://raw.githubusercontent.com/adsuploader/.github/main/assets/bulk-ad-launcher-meta-ads.png" alt="Ads Uploader — the fastest way to bulk-launch Meta ads. Bulk ad launcher for Meta Ads across web app, MCP, and CLI." width="100%">
 </p>
 
 <h1 align="center">Ads Uploader</h1>
