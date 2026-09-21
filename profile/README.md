@@ -15,7 +15,7 @@
 
 ---
 
-Founded on a decade of hands-on Meta advertising, Ads Uploader gives you the deepest, most complete Meta ad-creation workflows available — template from any live ad, launch in bulk with unique copy per ad, run partnership (branded content) ads, and duplicate ads while preserving social proof. Meta is where we go deepest today, with more channels on the horizon.
+Founded on a decade of hands-on Meta advertising, Ads Uploader gives you the deepest, most complete Meta ad-creation workflows available — template from any live ad, launch in bulk with unique copy per ad, run partnership (branded content) ads, and duplicate ads while preserving social proof.
 
 Everything is **safe by default**: previews validate against Meta without creating anything, and new ads are **paused** until you launch them.
 
