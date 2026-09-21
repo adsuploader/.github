@@ -9,8 +9,8 @@
 <p align="center">
   <a href="https://adsuploader.com">Website</a> ·
   <a href="https://adsuploader.com/docs">Docs</a> ·
-  <a href="https://github.com/adsuploader/mcp">MCP server</a> ·
-  <a href="https://github.com/adsuploader/cli">CLI</a>
+  <a href="https://github.com/adsuploader/meta-ads-mcp">Meta Ads MCP</a> ·
+  <a href="https://github.com/adsuploader/meta-ads-cli">Meta Ads CLI</a>
 </p>
 
 ---
@@ -27,8 +27,8 @@ A batch of 50 ad variations that takes 2–3 hours by hand launches in **5–10 
 
 | Project | What it is |
 | --- | --- |
-| **[mcp](https://github.com/adsuploader/mcp)** | The Ads Uploader MCP server — connect Meta ad workflows to Claude, ChatGPT, Cursor, and Codex. |
-| **[cli](https://github.com/adsuploader/cli)** | The `ads` command-line tool — create and manage Meta ads from your terminal or an agent. |
+| **[meta-ads-mcp](https://github.com/adsuploader/meta-ads-mcp)** | The Meta Ads MCP server — connect Meta ad workflows to Claude, ChatGPT, Cursor, and Codex. |
+| **[meta-ads-cli](https://github.com/adsuploader/meta-ads-cli)** | The `ads` command-line tool — create and manage Meta ads from your terminal or an agent. |
 
 ### Get started
 
